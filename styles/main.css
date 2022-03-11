@@ -17,6 +17,13 @@ p {
     color: red;
 }
 
+.subtitle {
+    font-size: 23pt;
+    color: rgb(128, 0, 0);
+    text-decoration: underline;     
+    text-decoration-color: rgb(128, 0, 0);
+}
+
 .name {
     font-size: 120pt;
     color: blueviolet;
